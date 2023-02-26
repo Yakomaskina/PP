@@ -6,7 +6,7 @@ class Git
 {
 static void Main(string[] args)
 {
-System.Console.WriteLine("Enter your FIRST name: ");
+System.Console.WriteLine("Enter your FIRST NAME: ");
 string first_name = Console.ReadLine();
 System.Console.WriteLine("Now enter your LAST name: ");
 string last_name = Console.ReadLine();
